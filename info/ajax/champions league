@@ -6,7 +6,8 @@
 
 <h1 style="color:Tomato;"> De club Ajax</h1>
 
-<p> Ajax is een mooie club uit Amsterdam en bestaat al 119 jaar. Het behoorde al bij de drie top. clubs toen het was opgericht. 
+<p> Ajax is een mooie club uit Amsterdam en bestaat al 119 jaar. Het behoorde al bij de drie top.
+clubs toen het was opgericht. 
 Sinds de Eredivisie is opgericht speelt AJax daar onagebroken. Een van de grootste spelers die Ajax heeft gekend is 
 Johan Cruijff. Hij heeft veel prijzen met Ajax gewonnen en was ooit de beste van de wereld. Daarom heeft Ajax na 
 de dood van Johan Cruijff de Ajax Arena naar hem vernoemd.</p>
@@ -18,7 +19,8 @@ de dood van Johan Cruijff de Ajax Arena naar hem vernoemd.</p>
 <p> 
  Ajax heeft vorig jaar een verblufende prestatien in de Champions leageu laten zien. Ze zijn net niet in de halfe finale 
  gekomen. Maar ze hebben wel clubs als Real Madrit en Juventus 
- uitgeschakeld. Dat zelfde jaar hebben ze ook de beker en de Eredivisie gewonnen. Dat werd met wel meer dan 100.000 man op het 
+ uitgeschakeld. Dat zelfde jaar hebben ze ook de beker en de Eredivisie gewonnen. Dat werd met wel meer dan 100.000 man 
+ op het 
  museumplein gevierd. </p>
 
 <p>
@@ -32,6 +34,78 @@ de dood van Johan Cruijff de Ajax Arena naar hem vernoemd.</p>
 alt="ajax spelers" width="300" height="175">
 
 
+<h3 style="color:Tomato;"> groep H Chapions league </h3>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid blue;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: white;
+}
+</style>
+</head>
+<body>
+
+
+
+<table>
+  <tr>
+    <th>club</th>
+    <th>G</th>
+    <th>W</th>
+    <th>G</th>
+    <th>V</th>
+    <th>P</th>
+  </tr>
+  <tr>
+    <td>Ajax</td>
+    <td>2</td>
+    <td>2</td>
+    <td>0</td>
+    <td>0</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Valencia</td>
+    <td>2</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Chelsea</td>
+    <td>2</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Lille</td>
+    <td>2</td>
+    <td>0</td>
+    <td>0</td>
+    <td>2</td>
+    <td>0</td>
+  </tr>
+  
+</table>
+
+
+
+
 
 </body>
 </html>
+    
+    
