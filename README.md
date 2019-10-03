@@ -1,2 +1,0 @@
-# ik
-index.html
